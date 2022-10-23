@@ -7,3 +7,7 @@
 ```
 printf("Hello, world!");
 ```
+
+- [x] My task is done
+- [ ] Do the next task
+- [ ] Finish the course
